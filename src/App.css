@@ -3,40 +3,32 @@
 }
 
 .body {
-  background-image: url(images/background.png);
+  background-image: url('images/background.png');
   display: flex;
   flex-direction: column;
-  
 }
 
 .header {
   color: aliceblue;
-  text-align: center;
   font-size: 25px;
+  text-align: center;
 }
 
 .solar-system {
   color: aliceblue;
   display: flex;
   flex-direction: column;
-  /* border: 1px solid green; */
 }
 
 .title {
-  text-align: center;
- /*  border: 1px solid red; */
   border-radius: 10px;
-  width: 80%;
   margin: auto;
+  text-align: center;
+  width: 80%;
 }
 
 .planets {
   display: flex;
- /*  border: 1px solid white; */
-}
-
-.planet-card {
- /*  border: 1px solid white; */
 }
 
 .planet-card p {
@@ -48,26 +40,23 @@
 }
 
 .missions {
-  /* border: 3px solid green; */
   color: white;
   display: flex;
   flex-direction: column;
 }
 
 .missions-title {
-  text-align: center;
-  /* border: 1px solid red; */
   border-radius: 10px;
-  width: 80%;
   margin: auto;
+  text-align: center;
+  width: 80%;
 }
 
 .missions-title-info {
-  /* border: 1px solid white; */
   display: grid;
   grid-template-columns: auto auto auto auto;
-  width: 80%;
   margin: auto;
+  width: 80%;
 }
 
 .mission-card {
