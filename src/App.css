@@ -1,3 +1,83 @@
 .App {
   text-align: center;
 }
+
+.body {
+  background-image: url(images/background.png);
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.header {
+  color: aliceblue;
+  text-align: center;
+  font-size: 25px;
+}
+
+.solar-system {
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  /* border: 1px solid green; */
+}
+
+.title {
+  text-align: center;
+ /*  border: 1px solid red; */
+  border-radius: 10px;
+  width: 80%;
+  margin: auto;
+}
+
+.planets {
+  display: flex;
+ /*  border: 1px solid white; */
+}
+
+.planet-card {
+ /*  border: 1px solid white; */
+}
+
+.planet-card p {
+  text-align: center;
+}
+
+.planet-card img {
+  width: 122px;
+}
+
+.missions {
+  /* border: 3px solid green; */
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.missions-title {
+  text-align: center;
+  /* border: 1px solid red; */
+  border-radius: 10px;
+  width: 80%;
+  margin: auto;
+}
+
+.missions-title-info {
+  /* border: 1px solid white; */
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  width: 80%;
+  margin: auto;
+}
+
+.mission-card {
+  border: 1px solid white;
+  border-radius: 8px;
+  margin: 2px;
+}
+
+.mission-card-name {
+  border: 1px solid white;
+  border-radius: 8px;
+  text-align: center;
+}
