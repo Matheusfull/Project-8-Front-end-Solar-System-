@@ -1,8 +1,8 @@
 # Boas-vindas ao repositório do projeto Solar System!
 
-# Como ficou o projeto ?
+<!-- # Como ficou o projeto ?
 
-# Link da Aplicação
+# Link da Aplicação -->
 
 # Habilidades necessárias
 
@@ -39,7 +39,7 @@
 # Como rodar na sua máquina ? 
 
 <details>
-  <summary><strong>‼️ Antes de começar a desenvolver</strong></summary><br />
+  <summary><strong>‼️ Teste em sua máquina</strong></summary><br />
 
   1. Clone o repositório
 
@@ -53,8 +53,8 @@
 
   3. Rode a Aplicação
 
-  -`npm start`
-  
+  - `npm start`.
+
   </details>
 
 <!-- Olá, Tryber!
