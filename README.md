@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do projeto Solar System!
+# 🌝🌚 🪐 🌍 Boas-vindas ao repositório do projeto Solar System!🚀 🛸🛰
 
 <!-- # Como ficou o projeto ?
 
@@ -9,7 +9,7 @@
 <details>
   <summary><strong>:memo: Habilidades</strong></summary><br />
 
-  Neste projeto, verificamos se você é capaz de:
+  Neste projeto, foi solidificado os seguintes conhecimentos:
 
   * Utilizar JSX no React;
 
