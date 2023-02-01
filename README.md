@@ -43,9 +43,9 @@
 
   1. Clone o repositório
 
-  - Use o comando: `git clone git@github.com:Matheusfull/Front-end-2-Solar-System-.git`.
+  - Use o comando: `git clone git@github.com:Matheusfull/Project-8-Front-end-Solar-System-.git`.
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd Front-end-2-Solar-System-`
+    - `cd Project-8-Front-end-Solar-System-`
 
   2. Instale as dependências
 
